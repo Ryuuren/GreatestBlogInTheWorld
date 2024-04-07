@@ -8,6 +8,7 @@ Basic blog
 | --- | --- |
 | Hosting | Vercel |
 | Backend | Node, Express, Cors |
+| Frontend | TypeScript, React, NextJS |
 | Database | PostgreSQL |
 
 ## Features
