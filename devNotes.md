@@ -1,17 +1,16 @@
 # Dev notes
 
-## Project
-
 Basic blog
 
-## Hosting
+## Tech Stack
 
-Vercel
+| Tech | Desc |
+| --- | --- |
+| Hosting | Vercel |
+| Backend | Node, Express, Cors |
+| Database | PostgreSQL |
 
-## Backend
+## Features
 
-Node, Express, Cors
-
-## Database
-
-PostgreSQL
+- user access: create own blog post, edit own blog post, delete own blog post
+- user access levels: member, admin
