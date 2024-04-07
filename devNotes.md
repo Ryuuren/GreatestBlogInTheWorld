@@ -1,8 +1,9 @@
 # Dev notes
 
-I have edited this thingy
-Something sushi
+## Hosting
 
-=======
+Vercel
 
-!23123123
+## Database
+
+PostgreSQL
