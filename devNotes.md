@@ -10,6 +10,7 @@ Basic blog
 | Backend | Node, Express, Cors |
 | Frontend | TypeScript, React, NextJS |
 | Database | PostgreSQL |
+| Styling | Tailwind |
 
 ## Features
 
